@@ -54,7 +54,7 @@ const TeamSection = () => {
       name: "Vaishnavi",
       role: "Cultural Researcher",
       expertise: "Monastery History, Cultural Preservation",
-      image: "/assets/images/team-mates/vaishnavi.jpeg",
+      image: "/assets/images/team-mates/vaishnavi.jpg",
       linkedin: "http://www.linkedin.com/in/vaishnavi-cse28",
       github: "https://github.com/2006vaishnaviglb-beep"
     }
